@@ -2,7 +2,9 @@
 
 #### Portfolio Link - https://pmohanaprasad.github.io/legendary-doodle/
 
-![](https://raw.githubusercontent.com/pmohanaprasad/yup/master/generated/overview.svg#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/pmohanaprasad/github-stats/master/generated/overview.svg"></img>
+<img src="https://raw.githubusercontent.com/pmohanaprasad/github-stats/master/generated/languages.svg"></img>
+
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
