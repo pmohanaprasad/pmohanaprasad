@@ -1,9 +1,6 @@
 # 👋 Hi, I’m P Mohana Prasad
 
-#### Portfolio Link - https://pmohanaprasad.github.io/legendary-doodle/
-
-<img src="https://raw.githubusercontent.com/pmohanaprasad/github-stats/master/generated/overview.svg"></img>
-<img src="https://raw.githubusercontent.com/pmohanaprasad/github-stats/master/generated/languages.svg"></img>
+#### Portfolio Link - [https://pmohanaprasad.github.io/legendary-doodle/](https://portfolio-nf9ki3f1k-pmohanaprasads-projects.vercel.app/)
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
