@@ -1,6 +1,6 @@
 # 👋 Hi, I’m P Mohana Prasad
 
-#### Portfolio Link - https://portfolio-nf9ki3f1k-pmohanaprasads-projects.vercel.app/
+#### Portfolio Link - [Mohana Prasad](https://pmohanaprasad.vercel.app/)
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
