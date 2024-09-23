@@ -18,9 +18,14 @@ Hello! I'm **P Mohana Prasad**, a Full Stack Engineer with a passion for develop
 - **CI/CD**: Docker, AWS
 
 ### 📂 Featured Projects:
-- **[Clinic Management Software](/)**: Streamlined clinic operations with appointment scheduling, billing, and patient communication features.
-- **[Weaver's ERP](#)**: Optimized saree manufacturing workflows, improving inventory management and reducing production time by 25%.
-- **[Real-Time Communication System Powered by AI](#)**: Built for specially-abled individuals, leveraging AI to enhance communication.
+- **[Clinic Management Software](https://github.com/pmohanaprasad)**: Streamlined clinic operations with appointment scheduling, billing, and patient communication features.
+- **[Hotel Management System](https://github.com/pmohanaprasad)**: Full-stack hotel booking and inventory system with real-time notifications.
+<!---- **[ezCatalog - AI-powered eCommerce Platform](https://github.com/pmohanaprasad)**: AI-driven platform for automated product recommendations and inventory management.
+- **[Weaver's ERP](https://github.com/pmohanaprasad)**: Optimized saree manufacturing workflows, improving inventory management and reducing production time by 25%.-->
+- **[Real-Time Communication System Powered by AI](https://github.com/pmohanaprasad)**: Built for specially-abled individuals, leveraging AI to enhance communication.
+- **[Rehabilitation Software](https://github.com/pmohanaprasad)**: Foot rehabilitation software with interactive exercises and progress tracking.
+- **[Non-Banking Financial Software](https://github.com/pmohanaprasad)**: Managed loans, customer data, and risk assessment for financial institutions.
+- **[Hydrochemical Analysis Desktop App](https://github.com/pmohanaprasad)**: GUI-based app for hydrochemical data processing and comparison.
 
 ### 🏆 Achievements:
 - **Smart India Hackathon Winner (2022)**: Developed a software solution for the Central Ground Water Board, recognized among 15 winning teams.
