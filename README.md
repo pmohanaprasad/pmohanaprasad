@@ -18,7 +18,7 @@ Hello! I'm **P Mohana Prasad**, a Full Stack Engineer with a passion for develop
 - **CI/CD**: Docker, AWS
 
 ### 📂 Featured Projects:
-- **[Clinic Management Software]()**: Streamlined clinic operations with appointment scheduling, billing, and patient communication features.
+- **[Clinic Management Software](/)**: Streamlined clinic operations with appointment scheduling, billing, and patient communication features.
 - **[Weaver's ERP](#)**: Optimized saree manufacturing workflows, improving inventory management and reducing production time by 25%.
 - **[Real-Time Communication System Powered by AI](#)**: Built for specially-abled individuals, leveraging AI to enhance communication.
 
