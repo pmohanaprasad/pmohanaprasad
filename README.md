@@ -1,6 +1,6 @@
 # 👋 Hi, I’m P Mohana Prasad | Full Stack Engineer
 
-#### 💻 Portfolio Link - [Mohana Prasad](https://pmohanaprasad.vercel.app/)
+#### 💻 Portfolio Link - [Mohana Prasad](https://pmohanaprasad.tech/)
 
 Hello! I'm **P Mohana Prasad**, a Full Stack Engineer with a passion for developing scalable and efficient web applications using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). With experience in both frontend and backend technologies, I aim to deliver robust, user-friendly, and innovative solutions that solve real-world problems.
 
