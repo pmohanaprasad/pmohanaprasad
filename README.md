@@ -34,7 +34,10 @@ Hello! I'm **P Mohana Prasad**, a Full Stack Engineer with a passion for develop
 ### 🎓 Certifications:
 - **React.js (Basic)** - HackerRank
 - **Real-Time Communication System Powered by AI** - ICT Academy
-- **Java, Python, Web Development** - IIT Bombay
+- **Java, Python, C++** - IIT Bombay
+- **Web Development** - Internshala
+- **What is Data Science** - IBM
+- **Crash Course on Python** - Google
 
 ### 📫 Let's Connect!
 - **Email**: [p.mohanaprasad@outlook.com](mailto:p.mohanaprasad@outlook.com)
