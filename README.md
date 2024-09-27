@@ -23,7 +23,7 @@ Hello! I'm **P Mohana Prasad**, a Full Stack Engineer with a passion for develop
 - **[Real-Time Communication System Powered by AI](https://github.com/pmohanaprasad)**: Built for specially-abled individuals, leveraging AI to enhance communication.
 - **[Rehabilitation Software](https://github.com/pmohanaprasad)**: Foot rehabilitation software with interactive exercises and progress tracking.
 - **[Non-Banking Financial Software](https://github.com/pmohanaprasad)**: Managed loans, customer data, and risk assessment for financial institutions.
-- **[Hydrochemical Analysis Desktop App](https://github.com/pmohanaprasad)**: GUI-based app for hydrochemical data processing and comparison.
+- **[Aqualytica Desktop App](https://github.com/pmohanaprasad)**: GUI-based app for hydrochemical data processing and comparison.
 <!---- **[ezCatalog - AI-powered eCommerce Platform](https://github.com/pmohanaprasad)**: AI-driven platform for automated product recommendations and inventory management.
 - **[Weaver's ERP](https://github.com/pmohanaprasad)**: Optimized saree manufacturing workflows, improving inventory management and reducing production time by 25%.-->
 
